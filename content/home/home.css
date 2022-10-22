@@ -1,0 +1,14 @@
+@value gridBaseline from "pages/sundered_hearts/base/metrics/metrics.css";
+
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav {
+    display: grid;
+    gap: calc(gridBaseline * 2);
+    grid-template-columns: auto auto;
+    grid-auto-flow: row;
+}

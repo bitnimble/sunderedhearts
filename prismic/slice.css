@@ -1,0 +1,38 @@
+@value gridBaseline from "pages/sundered_hearts/base/metrics/metrics.css";
+
+.staffCard {
+    display: flex;
+    margin: calc(gridBaseline * 10) 0;
+}
+
+.staffCardFlipped {
+    flex-direction: row-reverse;
+}
+
+.profilePicture {
+    margin: 0 calc(gridBaseline * 3);
+    width: calc(gridBaseline * 40);
+    flex: 1 0 auto;
+}
+
+.rpInfoLabel {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.rpInfo {
+    position: relative;
+    max-width: 60vw;
+    background: rgba(150, 53, 64, 0.8);
+    padding: calc(gridBaseline * 10);
+}
+
+.buttonCloseRpInfo {
+    position: absolute;
+    top: gridBaseline;
+    right: calc(gridBaseline * 2);
+
+    cursor: pointer;
+    color: white;
+    font-size: 32px;
+}

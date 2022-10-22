@@ -1,0 +1,15 @@
+@value gridBaseline from "pages/sundered_hearts/base/metrics/metrics.css";
+
+.wrapper {
+    position: relative;
+    width: 100%;
+    height: 480px;
+    margin: calc(gridBaseline * 2) 0;
+}
+
+.image {
+    border-radius: gridBaseline;
+    overflow: hidden;
+    position: absolute;
+    transition: opacity 1s ease;
+}

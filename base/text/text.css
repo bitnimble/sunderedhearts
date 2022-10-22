@@ -1,0 +1,72 @@
+@value weightValueSemibold: 600;
+@value gridBaseline from "pages/sundered_hearts/base/metrics/metrics.css";
+
+.text {
+    margin: 0 0 0.2em 0;
+    color: white;
+}
+
+.styleSans {
+    font-family: 'DM Sans', sans-serif;
+    letter-spacing: 0.6px;
+}
+.styleSerif {
+    font-family: 'Fraunces', serif;
+}
+.styleScript {
+    font-family: 'Ms Madi', cursive;
+}
+
+.weightRegular {
+    font-weight: 400;
+}
+.weightThin {
+    font-weight: 100;
+}
+.weightLight {
+    font-weight: 300;
+}
+.weightSemibold {
+    font-weight: weightValueSemibold;
+}
+.weightBold {
+    font-weight: 700;
+}
+.weightExtrabold {
+    font-weight: 800;
+}
+.weightBlack {
+    font-weight: 900;
+}
+
+.paddingSmall {
+    margin-bottom: 0.8em;
+}
+.paddingMedium {
+    margin-bottom: 1.2em;
+}
+.paddingLarge {
+    margin-bottom: 2.4em;
+}
+
+.tiny {
+    font-size: 18px;
+    letter-spacing: 0.6px;
+    line-height: 1.3;
+}
+.small {
+    font-size: 21px;
+    line-height: 1.3;
+}
+.medium {
+    font-size: 32px;
+    line-height: 1.3;
+}
+.large {
+    font-size: 48px;
+    line-height: 1.3;
+}
+.extraLarge {
+    font-size: 64px;
+    line-height: 1.3;
+}

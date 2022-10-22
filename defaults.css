@@ -1,0 +1,34 @@
+body {
+    height: 100vh;
+    background-image: url('data:image/svg+xml;charset=utf8,%3Csvg%20width%3D%22640%22%20height%3D%22480%22%20viewBox%3D%220%200%20640%20480%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%20%3Cstyle%20type%3D%22text%2Fcss%22%3E%20use%5Bhref%3D%22%23heart%22%5D%20%7B%20fill%3A%20%23D15E73%3B%20%7D%20%3C%2Fstyle%3E%20%3Csymbol%20id%3D%22heart%22%20viewBox%3D%220%200%2040.0%2040.0%22%3E%20%3Cpath%20d%3D%22M%202%2C13%20A%207%2C17%20325%2C0%2C0%2020%2C37%20A%207%2C17%2035%2C0%2C0%2038%2C13%20A%209%2C9%200%2C0%2C0%2020%2C13%20A%209%2C9%200%2C0%2C0%202%2C13%22%20%2F%3E%20%3C%2Fsymbol%3E%20%3Cg%20transform%3D%22translate%2836.0%2C%20-16.0%29%22%3E%20%3Cuse%20href%3D%22%23heart%22%20width%3D%2240.0%22%20height%3D%2240.0%22%20transform%3D%22scale%280.4%29%22%20%2F%3E%20%3CanimateMotion%20path%3D%22M%200%2C0%20L%200%2C512.0%22%20keyTimes%3D%220%3B1%22%20keySplines%3D%220%200%200.4%200%22%20dur%3D%227000ms%22%20repeatCount%3D%22indefinite%22%20calcMode%3D%22spline%22%20begin%3D%22-7s%22%20%2F%3E%20%3C%2Fg%3E%20%3Cg%20transform%3D%22translate%2888.0%2C%20-36.0%29%22%3E%20%3Cuse%20href%3D%22%23heart%22%20width%3D%2240.0%22%20height%3D%2240.0%22%20transform%3D%22scale%280.9%29%22%20%2F%3E%20%3CanimateMotion%20path%3D%22M%200%2C0%20L%200%2C552.0%22%20keyTimes%3D%220%3B1%22%20keySplines%3D%220%200%200.9%200%22%20dur%3D%225000ms%22%20repeatCount%3D%22indefinite%22%20calcMode%3D%22spline%22%20begin%3D%22-7s%22%20%2F%3E%20%3C%2Fg%3E%20%3Cg%20transform%3D%22translate%28160.0%2C%20-20.0%29%22%3E%20%3Cuse%20href%3D%22%23heart%22%20width%3D%2240.0%22%20height%3D%2240.0%22%20transform%3D%22scale%280.5%29%22%20%2F%3E%20%3CanimateMotion%20path%3D%22M%200%2C0%20L%200%2C520.0%22%20keyTimes%3D%220%3B1%22%20keySplines%3D%220%200%200.5%200%22%20dur%3D%225500ms%22%20repeatCount%3D%22indefinite%22%20calcMode%3D%22spline%22%20begin%3D%22-7s%22%20%2F%3E%20%3C%2Fg%3E%20%3Cg%20transform%3D%22translate%28216.0%2C%20-12.0%29%22%3E%20%3Cuse%20href%3D%22%23heart%22%20width%3D%2240.0%22%20height%3D%2240.0%22%20transform%3D%22scale%280.3%29%22%20%2F%3E%20%3CanimateMotion%20path%3D%22M%200%2C0%20L%200%2C504.0%22%20keyTimes%3D%220%3B1%22%20keySplines%3D%220%200%200.3%200%22%20dur%3D%229500ms%22%20repeatCount%3D%22indefinite%22%20calcMode%3D%22spline%22%20begin%3D%22-7s%22%20%2F%3E%20%3C%2Fg%3E%20%3Cg%20transform%3D%22translate%28264.0%2C%20-36.0%29%22%3E%20%3Cuse%20href%3D%22%23heart%22%20width%3D%2240.0%22%20height%3D%2240.0%22%20transform%3D%22scale%280.9%29%22%20%2F%3E%20%3CanimateMotion%20path%3D%22M%200%2C0%20L%200%2C552.0%22%20keyTimes%3D%220%3B1%22%20keySplines%3D%220%200%200.9%200%22%20dur%3D%2210000ms%22%20repeatCount%3D%22indefinite%22%20calcMode%3D%22spline%22%20begin%3D%22-7s%22%20%2F%3E%20%3C%2Fg%3E%20%3Cg%20transform%3D%22translate%28336.0%2C%20-36.0%29%22%3E%20%3Cuse%20href%3D%22%23heart%22%20width%3D%2240.0%22%20height%3D%2240.0%22%20transform%3D%22scale%280.9%29%22%20%2F%3E%20%3CanimateMotion%20path%3D%22M%200%2C0%20L%200%2C552.0%22%20keyTimes%3D%220%3B1%22%20keySplines%3D%220%200%200.9%200%22%20dur%3D%227500ms%22%20repeatCount%3D%22indefinite%22%20calcMode%3D%22spline%22%20begin%3D%22-7s%22%20%2F%3E%20%3C%2Fg%3E%20%3Cg%20transform%3D%22translate%28408.0%2C%20-12.0%29%22%3E%20%3Cuse%20href%3D%22%23heart%22%20width%3D%2240.0%22%20height%3D%2240.0%22%20transform%3D%22scale%280.3%29%22%20%2F%3E%20%3CanimateMotion%20path%3D%22M%200%2C0%20L%200%2C504.0%22%20keyTimes%3D%220%3B1%22%20keySplines%3D%220%200%200.3%200%22%20dur%3D%226000ms%22%20repeatCount%3D%22indefinite%22%20calcMode%3D%22spline%22%20begin%3D%22-7s%22%20%2F%3E%20%3C%2Fg%3E%20%3Cg%20transform%3D%22translate%28456.0%2C%20-24.0%29%22%3E%20%3Cuse%20href%3D%22%23heart%22%20width%3D%2240.0%22%20height%3D%2240.0%22%20transform%3D%22scale%280.6%29%22%20%2F%3E%20%3CanimateMotion%20path%3D%22M%200%2C0%20L%200%2C528.0%22%20keyTimes%3D%220%3B1%22%20keySplines%3D%220%200%200.6%200%22%20dur%3D%229000ms%22%20repeatCount%3D%22indefinite%22%20calcMode%3D%22spline%22%20begin%3D%22-7s%22%20%2F%3E%20%3C%2Fg%3E%20%3Cg%20transform%3D%22translate%28516.0%2C%20-32.0%29%22%3E%20%3Cuse%20href%3D%22%23heart%22%20width%3D%2240.0%22%20height%3D%2240.0%22%20transform%3D%22scale%280.8%29%22%20%2F%3E%20%3CanimateMotion%20path%3D%22M%200%2C0%20L%200%2C544.0%22%20keyTimes%3D%220%3B1%22%20keySplines%3D%220%200%200.8%200%22%20dur%3D%228000ms%22%20repeatCount%3D%22indefinite%22%20calcMode%3D%22spline%22%20begin%3D%22-7s%22%20%2F%3E%20%3C%2Fg%3E%20%3Cg%20transform%3D%22translate%28584.0%2C%20-20.0%29%22%3E%20%3Cuse%20href%3D%22%23heart%22%20width%3D%2240.0%22%20height%3D%2240.0%22%20transform%3D%22scale%280.5%29%22%20%2F%3E%20%3CanimateMotion%20path%3D%22M%200%2C0%20L%200%2C520.0%22%20keyTimes%3D%220%3B1%22%20keySplines%3D%220%200%200.5%200%22%20dur%3D%226500ms%22%20repeatCount%3D%22indefinite%22%20calcMode%3D%22spline%22%20begin%3D%22-7s%22%20%2F%3E%20%3C%2Fg%3E%3C%2Fsvg%3E'), linear-gradient(114deg, #963540 0%, #943753 100%);
+    background-size: cover, auto;
+    background-position: center, 0% 0%;
+    background-repeat: no-repeat, repeat;
+
+    color: white;
+}
+
+:global(#app) {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 100%;
+    object-fit: contain;
+}
+
+dialog {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.2);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

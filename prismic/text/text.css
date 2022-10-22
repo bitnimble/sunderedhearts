@@ -1,0 +1,56 @@
+@value gridBaseline from "pages/sundered_hearts/base/metrics/metrics.css";
+
+ul {
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+ol {
+    list-style-position: inside;
+    list-style-type: decimal;
+}
+
+strong {
+    font-weight: 400;
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.justify {
+    text-align: justify;
+}
+
+.image {
+    position: relative;
+    width: 100%;
+}
+
+.image > img {
+    border-radius: gridBaseline;
+    overflow: hidden;
+}
+
+.image .subtitle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: rgba(84, 1, 36, 0.667);
+    padding: calc(gridBaseline * 2);
+    opacity: 0;
+    transition: opacity 0.15s ease;
+}
+
+.image:hover .subtitle {
+    opacity: 1;
+}

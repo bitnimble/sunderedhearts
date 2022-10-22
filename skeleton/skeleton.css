@@ -1,0 +1,39 @@
+@value gridBaseline from "pages/sundered_hearts/base/metrics/metrics.css";
+
+.skeleton {
+    position: relative;
+    width: calc(gridBaseline * 120);
+    margin: calc(gridBaseline * 6) 0;
+    background-color: #D17989;
+    border-radius: calc(gridBaseline * 6);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.corner {
+    position: absolute;
+    width: calc(gridBaseline * 18);
+}
+.corner > img {
+    width: 100%;
+}
+.corner.tl { left: gridBaseline; top: gridBaseline }
+.corner.tr { right: gridBaseline; top: gridBaseline; transform: scaleX(-1) }
+.corner.bl { left: gridBaseline; bottom: gridBaseline; transform: scaleY(-1) }
+.corner.br { right: gridBaseline; bottom: gridBaseline; transform: scale(-1, -1) }
+
+.logo {
+    margin: calc(gridBaseline * 20) 0 calc(gridBaseline * 4) 0;
+    max-width: calc(gridBaseline * 54);
+}
+.logo > img {
+    width: 100%;
+}
+
+.content {
+    width: 100%;
+    box-sizing: border-box;
+    padding: calc(gridBaseline * 8);
+    padding-bottom: calc(gridBaseline * 16);
+}

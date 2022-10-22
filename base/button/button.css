@@ -1,0 +1,32 @@
+@value gridBaseline from "pages/sundered_hearts/base/metrics/metrics.css";
+
+.a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+
+    color: inherit;
+    padding: gridBaseline calc(gridBaseline * 2);
+    text-decoration: none;
+    background: #E396A4;
+    transition: transform 0.15s ease;
+    cursor: pointer;
+    min-width: calc(gridBaseline * 30);
+    min-height: calc(gridBaseline * 6.5);
+    border: none;
+    border-radius: calc(gridBaseline * 1.5);
+}
+
+.button:hover:not(.disabled) {
+    transform: scale(1.1);
+}
+
+.loadingSpinner {
+    margin-left: gridBaseline;
+}
