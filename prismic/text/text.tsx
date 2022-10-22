@@ -1,4 +1,4 @@
-import { T, TextProps } from 'pages/sundered_hearts/base/text/text';
+import { T, TextProps } from 'pages/sunderedhearts/base/text/text';
 import PrismicDOM from 'prismic-dom';
 import React from 'react';
 import { BaseText, Richtext, TextStyles } from '../prismic_types';

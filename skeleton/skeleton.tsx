@@ -1,4 +1,4 @@
-import { routeFor, RoutePath, RouteSegments } from 'pages/sundered_hearts/router/routes';
+import { routeFor, RoutePath, RouteSegments } from 'pages/sunderedhearts/router/routes';
 import React from 'react';
 import { Link, Route, BrowserRouter, Routes, useNavigate } from 'react-router-dom';
 import styles from './skeleton.css';

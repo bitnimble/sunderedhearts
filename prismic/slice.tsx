@@ -1,10 +1,10 @@
 import { UnreachableError } from 'base/unreachable';
 import classNames from 'classnames';
 import { action, makeObservable, observable } from 'mobx';
-import { Gallery } from 'pages/sundered_hearts/base/gallery/gallery';
-import { T } from 'pages/sundered_hearts/base/text/text';
-import { RichtextItem, Slice, StaffCard } from 'pages/sundered_hearts/prismic/prismic_types';
-import { RichtextView } from 'pages/sundered_hearts/prismic/text/text';
+import { Gallery } from 'pages/sunderedhearts/base/gallery/gallery';
+import { T } from 'pages/sunderedhearts/base/text/text';
+import { RichtextItem, Slice, StaffCard } from 'pages/sunderedhearts/prismic/prismic_types';
+import { RichtextView } from 'pages/sunderedhearts/prismic/text/text';
 import React from 'react';
 import styles from './slice.css';
 import { observer } from 'mobx-react';

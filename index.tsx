@@ -3,7 +3,7 @@ import * as ReactDOM from 'react-dom';
 import { createApp } from './create';
 import './defaults.css';
 import { PrismicProvider, PrismicToolbar } from '@prismicio/react';
-import { prismicClient, prismicRepo } from 'pages/sundered_hearts/prismic/install';
+import { prismicClient, prismicRepo } from 'pages/sunderedhearts/prismic/install';
 
 const App = createApp();
 

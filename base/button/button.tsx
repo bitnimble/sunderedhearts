@@ -1,5 +1,5 @@
 import classNames from 'classnames';
-import { T } from 'pages/sundered_hearts/base/text/text';
+import { T } from 'pages/sunderedhearts/base/text/text';
 import React from 'react';
 import { Link } from 'react-router-dom';
 import styles from './button.css';

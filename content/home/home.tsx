@@ -1,6 +1,6 @@
-import { Button } from 'pages/sundered_hearts/base/button/button';
-import { T } from 'pages/sundered_hearts/base/text/text';
-import { routeFor, RoutePath } from 'pages/sundered_hearts/router/routes';
+import { Button } from 'pages/sunderedhearts/base/button/button';
+import { T } from 'pages/sunderedhearts/base/text/text';
+import { routeFor, RoutePath } from 'pages/sunderedhearts/router/routes';
 import React from 'react';
 
 import styles from './home.css';

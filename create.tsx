@@ -1,8 +1,8 @@
 import { observer } from 'mobx-react';
-import { HomePage } from 'pages/sundered_hearts/content/home/home';
-import { FlexiPageViewLoader } from 'pages/sundered_hearts/prismic/flexi_page';
-import { NotFound } from 'pages/sundered_hearts/router/not_found';
-import { Skeleton } from 'pages/sundered_hearts/skeleton/skeleton';
+import { HomePage } from 'pages/sunderedhearts/content/home/home';
+import { FlexiPageViewLoader } from 'pages/sunderedhearts/prismic/flexi_page';
+import { NotFound } from 'pages/sunderedhearts/router/not_found';
+import { Skeleton } from 'pages/sunderedhearts/skeleton/skeleton';
 import React from 'react';
 
 export function createApp() {

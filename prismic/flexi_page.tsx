@@ -1,12 +1,12 @@
 import { makeObservable, observable, runInAction } from 'mobx';
-import { FlexiPage } from 'pages/sundered_hearts/prismic/prismic_types';
-import { SliceView, StaffCardView } from 'pages/sundered_hearts/prismic/slice';
-import { TitleView } from 'pages/sundered_hearts/prismic/text/text';
+import { FlexiPage } from 'pages/sunderedhearts/prismic/prismic_types';
+import { SliceView, StaffCardView } from 'pages/sunderedhearts/prismic/slice';
+import { TitleView } from 'pages/sunderedhearts/prismic/text/text';
 import React from 'react';
 import { observer } from 'mobx-react';
 import styles from './flexi_page.css';
-import { prismicClient } from 'pages/sundered_hearts/prismic/install';
-import { PrismicTypeDeserializer } from 'pages/sundered_hearts/prismic/prismic_type_deserializer';
+import { prismicClient } from 'pages/sunderedhearts/prismic/install';
+import { PrismicTypeDeserializer } from 'pages/sunderedhearts/prismic/prismic_type_deserializer';
 
 const deserializer = new PrismicTypeDeserializer();
 

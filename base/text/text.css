@@ -1,5 +1,5 @@
 @value weightValueSemibold: 600;
-@value gridBaseline from "pages/sundered_hearts/base/metrics/metrics.css";
+@value gridBaseline from "pages/sunderedhearts/base/metrics/metrics.css";
 
 .text {
     margin: 0 0 0.2em 0;
